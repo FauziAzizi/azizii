@@ -1,7 +1,26 @@
 h1{
-    color :blue;
+    background-image: url('R.jpeg');
+    color:blue;
+
+}
+img{
+
+    width : 250px;
+    height : 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 
+
 h2{
+    background-image: url(R.jpeg);
     color : blue;
+
 }
+body{
+    background-color: antiquewhite;
+    align: center;
+}
+
